@@ -1,6 +1,6 @@
 package com.example.parcialDSW.services;
 
-import com.example.parcialDSW.entities.StatsDTO;
+import com.example.parcialDSW.DTOs.StatsDTO;
 import com.example.parcialDSW.repositories.HumanoRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -102,5 +102,4 @@ class HumanoServiceTest {
         assertEquals(1, stats.getCountMutantDna());
         assertEquals(1.0D, stats.getRatio());
     }
-
 }

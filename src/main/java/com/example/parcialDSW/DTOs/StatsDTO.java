@@ -1,4 +1,4 @@
-package com.example.parcialDSW.entities;
+package com.example.parcialDSW.DTOs;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
