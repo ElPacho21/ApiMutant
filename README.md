@@ -57,6 +57,10 @@ El sistema evalúa si un humano es mutante o no, basándose en secuencias de ADN
    - Detección de mutantes: `POST /mutant/`
    - Estadísticas: `GET /stats`
 
+##Deploy
+
+Link del Deploy en Render: https://apimutant.onrender.com/
+
 ## Documentación
 
 **Diagrama de Secuencia**
